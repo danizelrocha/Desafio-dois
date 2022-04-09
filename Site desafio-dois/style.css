@@ -20,3 +20,22 @@
     vertical-align: top;
     padding-left: 575px;
 }
+
+table {
+    margin: 20px 20px;
+    font-weight: bolder;
+}
+
+td {
+    border: 2px solid black;
+    color: black;
+    padding: 8px 8px;
+}
+
+tbody {
+    background: white;
+}
+
+body {
+    background: #757575;
+}
