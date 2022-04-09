@@ -30,6 +30,7 @@ td {
     border: 2px solid black;
     color: black;
     padding: 8px 8px;
+    font-style: italic;
 }
 
 tbody {
