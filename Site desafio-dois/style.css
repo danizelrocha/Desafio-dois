@@ -5,10 +5,11 @@
 }
 
 .cabeça {
-    background: black;
+    background: #0e0e0e;
 }
 
 .imagemlogo {
+    background: #0e0e0e;
     width: 12%;
     display: inline-block;
     vertical-align: top;
