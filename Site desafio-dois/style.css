@@ -1,7 +1,7 @@
 .titulo-principal {
     font-size: 25px;
     font-style: italic;
-    padding-left: 18px;
+    padding-left: 577px;
     color: white;
 }
 
@@ -14,8 +14,13 @@
     width: 12%;
     display: inline-block;
     vertical-align: top;
+    padding-left: 575px;
 }
 
 .topo {
     background: #757575;
+}
+
+.etiqueta {
+    padding-left: 500px;
 }
