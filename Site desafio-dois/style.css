@@ -1,5 +1,20 @@
-form label {
-    display: table;
-    font-size: 20px;
-    margin: 0px 0px 10px;
+.titulo-principal {
+    font-size: 25px;
+    font-style: italic;
+    padding-left: 18px;
+}
+
+.cabeça {
+    background: black;
+}
+
+.imagemlogo {
+    width: 12%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.grupo {
+    padding-right: 20px;
+    text-align: center;
 }
