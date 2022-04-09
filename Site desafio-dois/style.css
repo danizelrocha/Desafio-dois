@@ -2,6 +2,7 @@
     font-size: 25px;
     font-style: italic;
     padding-left: 18px;
+    color: white;
 }
 
 .cabeça {
@@ -13,4 +14,8 @@
     width: 12%;
     display: inline-block;
     vertical-align: top;
+}
+
+.topo {
+    background: #0e0e0e;
 }
