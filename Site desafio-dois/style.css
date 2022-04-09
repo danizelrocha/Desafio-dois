@@ -1,3 +1,7 @@
+.topo {
+    background: #757575;
+}
+
 .titulo-principal {
     font-size: 25px;
     font-style: italic;
@@ -15,8 +19,4 @@
     display: inline-block;
     vertical-align: top;
     padding-left: 575px;
-}
-
-.topo {
-    background: #757575;
 }
