@@ -1,5 +1,5 @@
 .topo {
-    background: #757575;
+    background: #212529;
 }
 
 .titulo-principal {
@@ -10,11 +10,11 @@
 }
 
 .cabeça {
-    background: #757575;
+    background: #212529;
 }
 
 .imagemlogo {
-    background: #757575;
+    background: #212529;
     width: 12%;
     display: inline-block;
     vertical-align: top;
@@ -27,9 +27,9 @@ table {
 }
 
 td {
-    border: 2px solid black;
-    color: black;
-    padding: 8px 8px;
+    border: 2px solid #212529;
+    color: #212529;
+    padding: 6px 6px;
     font-style: italic;
 }
 
@@ -38,5 +38,5 @@ tbody {
 }
 
 body {
-    background: #757575;
+    background: #212529;
 }
