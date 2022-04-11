@@ -21,16 +21,13 @@
     padding-left: 575px;
 }
 
+body {
+    background: #212529;
+}
+
 table {
     margin: 20px 20px;
     font-weight: bolder;
-}
-
-td {
-    border: 2px solid #212529;
-    color: #212529;
-    padding: 6px 6px;
-    font-style: italic;
 }
 
 tbody {
@@ -38,6 +35,9 @@ tbody {
     align-items: center;
 }
 
-body {
-    background: #212529;
+td {
+    border: 2px solid #212529;
+    color: #212529;
+    padding: 6px 6px;
+    font-style: normal;
 }
