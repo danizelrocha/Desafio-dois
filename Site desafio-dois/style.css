@@ -41,3 +41,44 @@ td {
     padding: 6px 6px;
     font-style: normal;
 }
+
+.l_background {
+    background-image: url('/assets/img/l_backgroud.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.l_container {
+    margin: 0 auto;
+    width: 415px;
+    height: 100vh;
+    margin: 1px dashed #ffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    width: 150px;
+    height: 100px;
+    background: #f31632;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 30px;
+}
+
+.span {
+    font-size: 3rem;
+    font-weight: 400;
+    color: #ffff;
+    display: flex;
+}
+
+.i {
+    font-size: 0.8125rem;
+    padding: 10px 0px;
+    color: #ffe329;
+}
